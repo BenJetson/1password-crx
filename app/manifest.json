@@ -1,0 +1,17 @@
+{
+  "name": "1Password",
+  "description": "Go Ahead. Forget Your Passwords.",
+  "version": "1",
+  "manifest_version": 2,
+  "icons": {
+    "512": "512.png"
+  },
+  "app": {
+    "urls": [
+      "https://my.1password.com"
+    ],
+    "launch": {
+      "web_url": "https://my.1password.com/vaults/qzbvct5x2jc4f56cpuo57twkya"
+    }
+  }
+}
