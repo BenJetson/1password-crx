@@ -4,14 +4,21 @@
   "version": "1",
   "manifest_version": 2,
   "icons": {
-    "512": "512.png"
+    "1024": "1024.png",
+    "512": "512.png",
+    "256": "256.png",
+    "128": "128.png",
+    "64": "64.png",
+    "48": "48.png",
+    "32": "32.png",
+    "16": "16.png"
   },
   "app": {
     "urls": [
       "https://my.1password.com"
     ],
     "launch": {
-      "web_url": "https://my.1password.com/vaults/qzbvct5x2jc4f56cpuo57twkya"
+      "web_url": "https://my.1password.com"
     }
   }
 }
